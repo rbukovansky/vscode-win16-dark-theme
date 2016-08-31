@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "dark-win16-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dark Win16 Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Dark theme for Visual Studio Code based on Microsoft Windows 16 color palette.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Feel free to submit request or bug in Issues. Thanks.
 
-**Enjoy!**
+License MIT. See LICENSE file.
+
+(C) 2016 Richard Bukovansky. All rights reserved.
