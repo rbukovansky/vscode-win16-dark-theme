@@ -1,7 +1,7 @@
 {
-	"name": "Theme-Win16-Dark",
+	"name": "Dark-Win16-Theme",
 	"displayName": "Dark Microsoft Windows 16 color theme",
-	"description": "Dark theme for VS Code based on MS Windows 16 color pallete.",
+	"description": "Dark theme for Visual Studio Code based on MS Windows 16 color palette.",
 	"version": "0.0.1",
 	"publisher": "rbukovansky",
 	"engines": {
@@ -10,9 +10,9 @@
 	"categories": [
 		"Themes"
 	],
-	"license": "SEE LICENSE IN LICENSE.txt",
+	"license": "SEE LICENSE IN LICENSE file",
 	"bugs": {
-		"url": "https://github.com/Microsoft/vscode-themes/issues"
+		"url": "https://github.com/rbukovansky/vscode-win16-dark-theme/issues"
 	},
 	"homepage": "https://github.com/Microsoft/vscode-themes/blob/master/tomorrow/README.md",
 	"repository": {
